@@ -8,12 +8,7 @@ import {
 } from '../styles/styles';
 import CityDetail from './CityDetail';
 
-const {
-  headerName,
-  headerCountry,
-  headerLikes,
-  searchResults,
-} = require('../copy.json');
+const { headerName, headerCountry, headerLikes } = require('../copy.json');
 
 const CitiesTable = ({ cities }) => {
   const [selectedId, setSelectedId] = useState(null);
@@ -33,7 +28,6 @@ const CitiesTable = ({ cities }) => {
     cities.length > 0 && (
       <StyledFlexContainer>
         <StyledTable data-testid='citiesTable_table'>
-          <caption>{searchResults}</caption>
           <thead>
             <tr>
               <th scope='col'>

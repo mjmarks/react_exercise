@@ -6,6 +6,5 @@
   "headerLongitude": "Longitude",
   "headerName": "Name",
   "inputPlaceholder": "Start typing to search for cities",
-  "unavailable": "unavailable",
-  "searchResults": "Search Results"
+  "unavailable": "unavailable"
 }
