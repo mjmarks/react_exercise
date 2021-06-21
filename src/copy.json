@@ -1,0 +1,11 @@
+{
+  "applicationTitle": "React Typeahead",
+  "headerCountry": "Country",
+  "headerLatitude": "Latitude",
+  "headerLikes": "Likes",
+  "headerLongitude": "Longitude",
+  "headerName": "Name",
+  "inputPlaceholder": "Start typing to search for cities",
+  "unavailable": "unavailable",
+  "searchResults": "Search Results"
+}
