@@ -36,6 +36,7 @@ export const StyledTable = styled.table`
     }
     &:hover {
       color: #ff496c;
+      cursor: pointer;
     }
     & > td {
       height: 40px;
@@ -60,6 +61,7 @@ export const StyledRowDetail = styled.div`
   padding: 15px;
   width: 25vw;
   & > div:nth-of-type(1) {
+    cursor: pointer;
     font-size: 20px;
     text-align: right;
   }
