@@ -15,13 +15,13 @@ You have freedom to implement this app using any component tree structure and hi
 ## Requirements
 
 - Main Requirements:
-  - [ ] App dynamically shows list of US cities whose names have partial match to the user search input.
-  - [ ] Search results show the city’s name, country, and number of likes
-  - [ ] Clicking on a city from the results opens a sidebar containing the city’s details: name, country, number of likes, latitude, and longitude.
+  - [x] App dynamically shows list of US cities whose names have partial match to the user search input.
+  - [x] Search results show the city’s name, country, and number of likes
+  - [x] Clicking on a city from the results opens a sidebar containing the city’s details: name, country, number of likes, latitude, and longitude.
 - Bonus:
-  - [ ]     App is styled similarly to the finished app.
-  - [ ]     Accomplish the above requirements with Redux.
-  - [ ] Implement frontend tests using Jest, React Testing Library, and/or Enzyme.
+  - [x]     App is styled similarly to the finished app.
+  - [x]     Accomplish the above requirements with Redux.
+  - [x] Implement frontend tests using Jest, React Testing Library, and/or Enzyme.
 
 ## Notes
 
